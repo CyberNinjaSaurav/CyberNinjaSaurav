@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
-- 🌱 I’m currently learning **Spring Boot, DevOps, and Java full-stack development**
+- 🌱 I’m currently learning **Spring Boot, DevOps, and  full-stack development**
 
-- 💬 Ask me about **Spring Boot, Linux, Java**
+- 💬 Ask me about **Spring Boot, Linux, Java, JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
